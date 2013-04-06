@@ -2,27 +2,27 @@ DailyCost
 
 --------------------------------------------------------------------------------
 
-DailyCost is a simple and elegant expense tracking app for everyday use. With intuitive interaction and beautifully designed statistics, it just rocks.
+A aplicação DailyCost é a forma mais simples e elegante para controlar as despesas diárias. Com gráficos interativos e de design incrível, e intuitivo, vai controlar as suas despesas melhor do que nunca.
 
-Features:
-- Simple and easy to use UI
-- Intuitive experience
-- Smart categories
-- Elegant stats and reports
-- Data export (CSV)
-- Backup to iCloud
+Características:
+- Interface simples e fácil de usar
+- Experiência intuitiva
+- Categorias inteligentes
+- Gráficos elegantes e interativos
+- Exportar a informação (CSV)
+- Fazer cópia de segurança no iCloud
 
-Tips:
-- Hold your iPhone horizontally for statistics
-- Tap and hold to delete an item
-- Comments avalable in the left page when creating a new cost 
-- Use negative values to record incomes
+Dicas importantes:
+- Deite o seu iPhone horizontalmente para aceder aos gráficos
+- Pressione continuamente uma despesa para a eliminar
+- Comentários disponíveis à esquerda quando criar uma nova despesa
+- Use números negativos para registar recebimentos ou lucros
 
-This app is designed and developed individually by a passionate designer in his spare time.
-After using many complicated expense tracking apps, he determined to design a much simpler one.
+Esta aplicação foi desenhada e desenvolvida por um designer que o faz no seu tempo livre.
+Depois de usar inúmeras aplicações com designs pouco intuitivos, decidiu que criar a sua própria seria o melhor a fazer.
 
-If you like this app, please support it by rating it.
-If you have any problem using this app, or any new idea and suggestion about it, please don't hesitate to give me feedback.
+Se gosta da aplicação, por favor ajude a mantê-la ativa avaliando-a.
+Se tem algum problema com a aplicação ou gostaria que funcionasse de outra forma, partilhe as suas ideias e dê-nos o seu feedback.
 
 Email: support@dailycost.com
 Weibo: @dailycost / Twitter: @dailycostapp
